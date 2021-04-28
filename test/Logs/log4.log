@@ -1,0 +1,1 @@
+192.168.0.1 - - [08/Sep/2012:02:15:00 +0200] "GET /page2.js HTTP/1.1" 200 2000 "abc/page1.html" "Mozilla/5.0"

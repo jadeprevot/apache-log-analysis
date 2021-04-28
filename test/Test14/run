@@ -1,0 +1,1 @@
+../../analog -g graphe.dot -t 19 -e ../Logs/log0.log

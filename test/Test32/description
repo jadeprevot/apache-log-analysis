@@ -1,0 +1,2 @@
+Ce test permet de vérifier que l'option -g fonctionne bien (qu'il n'y a pas de problème lors l’ouverture du fichier, permissions)
+(cette option permet de produire un fichier au format GraphViz du graphe analysé)

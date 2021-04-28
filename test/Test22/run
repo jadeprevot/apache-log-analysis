@@ -1,0 +1,1 @@
+chmod 0333 ../Logs/log20.log && ../../analog ../Logs/log20.log

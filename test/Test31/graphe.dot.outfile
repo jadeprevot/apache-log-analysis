@@ -1,0 +1,26 @@
+digraph {
+	node0 [label="/imag7.jpg"];
+	node1 [label="/image.jpg"];
+	node2 [label="/page1.html"];
+	node3 [label="/page2.html"];
+	node4 [label="/page2.js"];
+	node5 [label="/page3.html"];
+	node6 [label="/page5.js"];
+	node7 [label="/page6.css"];
+	node8 [label="/page8.png"];
+	node9 [label="abc/page1.html"];
+	node10 [label="abc/page2.html"];
+	node11 [label="abc/page3.html"];
+	node12 [label="http://google.fr"];
+	node2 -> node8 [label="1"];
+	node12 -> node0 [label="1"];
+	node11 -> node0 [label="1"];
+	node10 -> node2 [label="2"];
+	node9 -> node3 [label="2"];
+	node11 -> node3 [label="1"];
+	node9 -> node4 [label="1"];
+	node10 -> node7 [label="1"];
+	node10 -> node5 [label="1"];
+	node11 -> node6 [label="1"];
+	node11 -> node1 [label="1"];
+}

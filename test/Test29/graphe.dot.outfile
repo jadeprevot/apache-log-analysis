@@ -1,0 +1,5 @@
+digraph {
+	node0 [label="/page2.js"];
+	node1 [label="abc/page1.html"];
+	node1 -> node0 [label="1"];
+}

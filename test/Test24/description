@@ -1,0 +1,2 @@
+Ce test vérifie que l'URL de base du serveur Apache est bien supprimée lorsqu'elle existe.
+Il teste aussi le cas d'usage par défaut d'analog quand moins de 10 documents cibles ont été trouvés.

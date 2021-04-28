@@ -1,0 +1,1 @@
+Ce test vérifie que si une requête a une source inconnue, le nombre de hits de l'URL cible est bien incrémenté, mais que l'arc correspondant à la requête n'est pas généré dans le fichier GraphViz.
